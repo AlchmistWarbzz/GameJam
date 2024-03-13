@@ -126,3 +126,7 @@ ToyGame/Saved/Config/WindowsEditor/ObjectMixerSerializedData.ini
 ToyGame/Saved/Config/WindowsEditor/GameUserSettings.ini
 ToyGame/Saved/Config/WindowsEditor/Engine.ini
 ToyGame/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+
+ToyGame/Saved/
+
+ToyGame/Intermediate/
